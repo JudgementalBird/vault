@@ -1,5 +1,5 @@
 #stormworks #multiplayer #singleplayer 
-##### Peer Id keeps track of players in the same game.
+### Peer Id keeps track of players in the same game.
 If you are in singleplayer, you are considered the host, and so your peer id is locked to 0.
 If you are in multiplayer, you can view your peer id by opening the player list.
 For me this is opened with the button between tab and esc, for you it might be something else.
