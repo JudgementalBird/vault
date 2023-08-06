@@ -8,5 +8,6 @@ If you can't find the button, go into Settings -> Controls, and look for "Player
 FYI:
 Peer id -1 is usually used to refer to all players, or the whole server.
 Peer id 0 usually refers to the host.
+Peer id is not affected or determined by steam id, username, or ping. It is more like a counter.
 The peer id of a joining player is the peer id of the last player to join, plus 1.
 The peer ids in a server are not guaranteed to be continual at any moment in time, you can end up with for example peer ids 2,6,11 in a game if people join and then leave.
